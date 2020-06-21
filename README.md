@@ -51,4 +51,5 @@ Shigeo Kawata, Takashi Ishihara, Daisuke Barada, Wu Zhang, Jiang Xie, Hitohide U
 张武，张律文，肖梅，谢江，宋安平，何冰. 一种逐步回归基因调控网络的推断方法. 专利号: ZL 200910199850.8
 
 ### Support or Contact
-如果您是上海大学用户，连接VPN后可[查看更多](http://biocenter.shu.edu.cn/group/index.php/team/teacher_info/4).
+如果您是上海大学用户，连接VPN后可[查看更多](http://biocenter.shu.edu.cn/).
+！[图片]（https://pages-themes.github.io/minimal/assets/img/logo.png）
