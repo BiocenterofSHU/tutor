@@ -2,31 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/BiocenterofSHU/tutor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-谢江是国家自然科学基金面上项目主持人，上海市自然科学基金主持人，是科技部重大研发计划重点专项子课题责任人，国家自然科学基金重大研究计划培育项目和上海市科委重点资助项目课题骨干，在包括IEEE Transactions on Computational Biology and Bioinformatics, Scientific Reports, Biomaterials等期刊和IEEE E-Science、IEEE/WIC/ACM国际重要学术会议上发表了一系列论文（其中2013年以来以第一/通讯作者发表28篇），获得发明专利3项，软件著作权3项。课题组已有四名国家级奖学金获得者，一名光华奖学金获得者和多名上海市优秀毕业生。
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+谢江是国家自然科学基金面上项目主持人，上海市自然科学基金主持人，是科技部重大研发计划重点专项子课题责任人，国家自然科学基金重大研究计划培育项目和上海市科委重点资助项目课题骨干，在包括IEEE Transactions on Computational Biology and Bioinformatics, Scientific Reports, Biomaterials等期刊和IEEE E-Science、IEEE/WIC/ACM国际重要学术会议上发表了一系列论文（其中2013年以来以第一/通讯作者发表28篇），获得发明专利3项，软件著作权3项。课题组已有四名国家级奖学金获得者，一名光华奖学金获得者和多名上海市优秀毕业生.
 
 ### 主要研究方向
 近年来一直从事计算生物学以及医疗健康大数据方面的研究工作，特别是大规模生物网络建模、比对、聚类以及可视化、蛋白质结构预测、大数据分析与并行计算、以及复杂疾病风险预测等相关工作并取得了较好的成果。
@@ -52,4 +28,3 @@ Shigeo Kawata, Takashi Ishihara, Daisuke Barada, Wu Zhang, Jiang Xie, Hitohide U
 
 ### Support or Contact
 如果您是上海大学用户，连接VPN后可[查看更多](http://biocenter.shu.edu.cn/).
-![Image]（https://pages-themes.github.io/minimal/assets/img/logo.png）
