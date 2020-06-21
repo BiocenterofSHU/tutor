@@ -52,4 +52,4 @@ Shigeo Kawata, Takashi Ishihara, Daisuke Barada, Wu Zhang, Jiang Xie, Hitohide U
 
 ### Support or Contact
 如果您是上海大学用户，连接VPN后可[查看更多](http://biocenter.shu.edu.cn/).
-！[图片]（https://pages-themes.github.io/minimal/assets/img/logo.png）
+![Image]（https://pages-themes.github.io/minimal/assets/img/logo.png）
